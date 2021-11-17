@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mwawaka
-- 👀 I’m interested in ...coding and Pro
+- 👀 I’m interested in ...coding and Programming
 - 🌱 I’m currently learning ...computer science
 - 💞️ I’m looking to collaborate on ...various projects
 - 📫 How to reach me ...kedskeds90@gmail.com
