@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding and Programming
 - 🌱 I’m currently learning ...computer science
 - 💞️ I’m looking to collaborate on ...various projects
-- 📫 How to reach me ...kedskeds90@gmail.com
+- 📫 How to reach me ...mwawakasammy810@gmail.com
 
 <!---
 Mwawaka/Mwawaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
