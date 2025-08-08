@@ -5,6 +5,7 @@
 - When i see over 3gb docker, i know it is node modules
 - When you cannot ssh into master, you are the slave
 - Until cloud bill arrives, liquidity is like Schrodinger's cat
+- I'd tell you a UDP joke, but I'm not sure you'll get it
 
 <!---
 Mwawaka/Mwawaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
