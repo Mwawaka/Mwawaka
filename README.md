@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Mwawaka
 - 📫 How to reach me ...mwawakasammy810@gmail.com
-- I a have whole degree in guesstimations
+- I have a degree in guesstimations
 - Why do programmers like dark mode? Because light attracts bugs
-- When i see an over 3gb docker image, i know it is node modules
+- When I see an over 3gb docker image, I just know it is node modules
 - When you cannot ssh into master, you are the slave
-- Until cloud bill arrives, liquidity is like Schrodinger's cat
-- I'd tell you a UDP joke, but I'm not sure you'll get it
+- Until the cloud bill arrives, liquidity is like Schrodinger's cat
+- I'd tell you a UDP joke, but I'm not sure you'd get it
 
 <!---
 Mwawaka/Mwawaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
